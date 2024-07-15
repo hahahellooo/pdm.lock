@@ -11,7 +11,7 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-hi-hahahelloo = "hi_hahahellooo.hello:hi"
+hi-hahahellooo = "hi_hahahellooo.hello:hi"
 
 [tool.pdm]
 distribution = true
